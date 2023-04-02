@@ -18,17 +18,18 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Demo-Preview](#demo-preview)
 - [Project Features](#project-features)
 - [Project Structure](#project-structure)
+- [Data Features](#Visualization)
 - [How to Run The Project](#run-the-project)
 - [Contribute](#contribute)
 - [Footer](#footer)
 
 
-### Project Features
+## Project Features
 
 Website based on machine learning that can detect diabetes disease with some given inputs.
 
 
-### Project Structure
+## Project Structure
 
 The Web Application is built using:
 
@@ -39,6 +40,16 @@ The Web Application is built using:
 - Backend framework:
   - Flask (Python)
   
+  
+## Visualization 
+ ### Diabetic counts in dataset
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/SByB0dj/Screenshot-332.png" alt="Screenshot-332" border="0"></a>
+
+
+ ### Correlation map 
+
+<a href="https://ibb.co/gV3mkXV"><img src="https://i.ibb.co/q5d7T45/Screenshot-333.png" alt="Screenshot-333" border="0"></a>
   
   ### Run the Project
 
@@ -61,7 +72,7 @@ python app.py
 
 # Contribute
 
-### Team
+## Team
 
 First Semester - Biomedical Digital Signal Processing project created by:
 
