@@ -60,6 +60,15 @@ python app.py
 ```
 
 # Contribute
+
+### Team
+
+First Semester - Biomedical Digital Signal Processing project created by:
+
+| Team Members'                                 
+| ----------------------------------------------------       
+| [Bassent Medhat](https://github.com/bassantmedhat)        
+| [Sherif Ahmed](https://github.com/Sherif-2001)                              
 [(Back to top)](#table-of-contents)
 
 <!-- This is where you can let people know how they can **contribute** to your project. Some of the ways are given below.
