@@ -15,7 +15,7 @@
 
 Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
 
-- [Demo-Preview](#demo-preview)
+
 - [Project Features](#project-features)
 - [Project Structure](#project-structure)
 - [Data Features](#Visualization)
