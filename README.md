@@ -21,7 +21,7 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 - [Project Structure](#project-structure)
 - [Data Features](#visualization)
 - [How to Run The Project](#run-the-project)
-- [Contribute](#contributors)
+- [Contributors](#contributors)
 - [Footer](#footer)
 
 
