@@ -5,8 +5,9 @@
 <!-- Using Random Forest To Detect Diabetes Is Some Of The Input Features -->
 
 ## Website UI
-
-<a href="https://ibb.co/X5t8ZXq"><img src="https://i.ibb.co/5jLFWTP/Screenshot-324.png" alt="Screenshot-324" border="0"></a>
+<p align="center">
+    <a href="https://ibb.co/X5t8ZXq"><img src="https://i.ibb.co/5jLFWTP/Screenshot-324.png" alt="Screenshot-324" border="0"></a>
+    </p>
 <!-- Add banner here --> 
 
 # Table of contents
@@ -18,9 +19,9 @@ Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README
 
 - [Project Features](#project-features)
 - [Project Structure](#project-structure)
-- [Data Features](#Visualization)
+- [Data Features](#visualization)
 - [How to Run The Project](#run-the-project)
-- [Contribute](#contribute)
+- [Contribute](#contributors)
 - [Footer](#footer)
 
 
@@ -47,11 +48,20 @@ The Web Application is built using:
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/SByB0dj/Screenshot-332.png" alt="Screenshot-332" border="0"></a>
 
 
- ### Correlation map 
+ ### Features Distribution
+![2](https://user-images.githubusercontent.com/85830264/230959070-f5f57585-7e49-4e39-8fef-c8fc6040359f.png)
 
-<a href="https://ibb.co/gV3mkXV"><img src="https://i.ibb.co/q5d7T45/Screenshot-333.png" alt="Screenshot-333" border="0"></a>
-  
-  ### Run the Project
+
+ ### Correlation Map 
+
+![Screenshot (381)](https://user-images.githubusercontent.com/85830264/230957731-6f5f05d1-7469-4576-bbc3-8123c143f89b.png)
+
+ ### Confusion Matrix
+ 
+ ![output](https://user-images.githubusercontent.com/85830264/230958900-2552a6df-db9d-4df2-8b47-6516e882638b.png)
+
+ 
+### Run the Project
 
 1. Install the following packages
    - numpy
@@ -70,7 +80,7 @@ The Web Application is built using:
 python app.py
 ```
 
-# Contribute
+# Contributors
 
 ## Team
 
