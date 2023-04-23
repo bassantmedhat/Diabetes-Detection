@@ -84,7 +84,7 @@ python app.py
 
 ## Team
 
-First Semester - Biomedical Digital Signal Processing project created by:
+
 
 | Team Members'                                 
 | ----------------------------------------------------       
